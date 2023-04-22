@@ -24,6 +24,7 @@ Preklad:
 - make all     --> odstráni staré súbory, preloží klienta aj server, získa použité nugetové balíčky, vygeneruje binárne súbory do root-a
 ----------------------------------------------------------------------------------------------------------------------------------------
 Príklady spustenia:
+
  1.
   - Server:
 	../xfudor00:~$ ./ipk-simpleftp-server -i eth0 -p 115 -u /home/dir/userpass.tx -f /home/dir
